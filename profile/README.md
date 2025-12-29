@@ -7,6 +7,11 @@
 # About Temavrix
 Temavrix is a small scale startup that established a base in github to post free, open-source repositories for the world to see. Our aim is to bring an end to many problems both in the computer industry and the real world through open-source projects by innovating and solving problems. We have worked on a very few small-scaled projects so far with a constant hope that we can help the world in a small positive way. While we still have some ongoing and some ambitious projects coming up we will like to ask you to support our startup by simply visiting our github projects and contributing to them by starring and reporting a issue to help fix bugs and mistakes and improve our projects for others.
 
+Please consider donating some money to our organization to help fund our projects and endeavourments:  
+<a href="https://buymeacoffee.com/mahadhevha" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="100"/>
+</a>
+
 # Our Flagship Projects
 While we at Temavrix want to create successful products we would need to start somewhere to show the world that we are capable of creating, testing and deploying products and also show that we have the ability to also market our products to our indented targeted audience. We also place our product's code in Github for developers to see and also help contribute ideas and test it to find bugs for us to build a better version of our products.  
 These are projects currently being constantly updated and maintained by our team:
