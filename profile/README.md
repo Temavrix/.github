@@ -17,15 +17,15 @@ These are projects currently being constantly updated and maintained by our team
 
 1. [JARVIS](https://github.com/Epicalable/JARVIS):
    <p align="left">
-   <img width="150" src="https://user-images.githubusercontent.com/69076784/180637424-8d2737c9-ead7-4d65-a8e8-a2c36d9474e8.png">
+    <img width="150" src="https://user-images.githubusercontent.com/69076784/180637424-8d2737c9-ead7-4d65-a8e8-a2c36d9474e8.png">
    </p >
    Jarvis is a simple ML Chatbot (responses trained on a json file) with a GUI capable of chatting and retrieving information, daily news from the internet for it's user using python.
 
 2. [NexaView](https://github.com/Epicalable/ComDash):
    <p align="left">
-   <img width="150" src="https://github.com/user-attachments/assets/1fb45085-3c46-4c11-84c0-e5bd2575d373">
-   </p >
-   NexaView is a Stunning Web-based Dashboard for News, Weathers and More for it's Users using APIs and built using ReactJS and TailwindCSS as the frontend and integrates FireBase as the backend database to store informations.
+    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" />
+   </p>
+   NexaView is a Stunning Web-based Dashboard for Weather, News, Todo Tasks and More for it's Users built using ReactJS and TailwindCSS for the frontend UI and also integrates FireBase as the backend database to store informations and REDIS for frequent used data to be cached.
 
 # Our websites
 Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://epicalable.github.io/epicalable.html)    
