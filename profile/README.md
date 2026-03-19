@@ -25,7 +25,13 @@ These are projects currently being constantly updated and maintained by our team
    <p align="left">
     <img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" />
    </p>
-   NexaView is a Stunning Web-based Dashboard for Weather, News, Todo Tasks and More for it's Users built using ReactJS and TailwindCSS for the frontend UI and also integrates FireBase as the backend database to store informations and REDIS for frequent used data to be cached.
+   NexaView is a Stunning Web-based Dashboard to fetch Weather, latest News, track to-do Tasks and more for it's Users built using ReactJS and TailwindCSS for the frontend UI and also integrates FireBase for it's backend database to store informations and REDIS for frequent used data to be cached for    quick retrieval.
+
+3. PatchFlow:
+   <p align="left">
+    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" />
+   </p>
+   Patchflow is an Issue and Bug tracker made easy for solo developers made using JavaFX coming soon...
 
 # Our websites
 Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://epicalable.github.io/epicalable.html)    
