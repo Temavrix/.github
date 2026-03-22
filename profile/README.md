@@ -29,12 +29,12 @@ These are projects currently being constantly updated and maintained by our team
 
 3. PatchFlow:
    <p align="left">
-    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" />
+    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/f49a9290-b664-494d-b2c5-766a92f581b0" />
    </p>
    Patchflow is an Issue and Bug tracker made easy for solo developers made using JavaFX coming soon...
 
 # Our websites
-Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://epicalable.github.io/epicalable.html)    
+Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://temavrix.github.io/Temavrix.html)    
 Check out our R&D Website to look through our posted research papers and articles:- [R&D](https://epicrd.github.io/RDdept.html)    
 To get the latest news and updates from our organization:- [News](https://codingaviator.github.io/Epicnews.html)  
 
