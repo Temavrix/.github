@@ -1,4 +1,4 @@
-
+<div align="center">
 <p align="center">
 <img width="40%" src="https://github.com/user-attachments/assets/511bbe3f-cfe7-4206-bfc0-a3fb7be89738">
 </p >
@@ -12,31 +12,30 @@ Please consider donating some money to our organization to help fund our project
 </a>
 
 # Our Flagship Projects
-While we at Temavrix want to create successful products we would need to start somewhere to show the world that we are capable of creating, testing and deploying products and also show that we have the ability to also market our products to our indented targeted audience. We also place our product's code in Github for developers to see and also help contribute ideas and test it to find bugs for us to build a better version of our products.  
+
 These are projects currently being constantly updated and maintained by our team:
 
-1. [JARVIS](https://github.com/Epicalable/JARVIS):
-   <p align="left">
-    <img width="150" src="https://user-images.githubusercontent.com/69076784/180637424-8d2737c9-ead7-4d65-a8e8-a2c36d9474e8.png">
-   </p >
+### [Jarvis](https://github.com/Temavrix/JARVIS)
+<img width="150" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab"> 
+
    Jarvis is a simple ML Chatbot (responses trained on a json file) with a GUI capable of chatting and retrieving information, daily news from the internet for it's user using python.
 
-2. [NexaView](https://github.com/Epicalable/ComDash):
-   <p align="left">
-    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" />
-   </p>
+### [NexaView](https://github.com/Temavrix/NexaView)
+
+<img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
+
    NexaView is a Stunning Web-based Dashboard to fetch Weather, latest News, track to-do Tasks and more for it's Users built using ReactJS and TailwindCSS for the frontend UI and also integrates FireBase for it's backend database to store informations and REDIS for frequent used data to be cached for    quick retrieval.
 
-3. PatchFlow:
-   <p align="left">
-    <img width="150" alt="Image" src="https://github.com/user-attachments/assets/f49a9290-b664-494d-b2c5-766a92f581b0" />
-   </p>
-   Patchflow is an Issue and Bug tracker made easy for solo developers made using JavaFX coming soon...
+### [Patchflow](https://github.com/Temavrix/PatchFlow)
+
+<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
+
+   PatchFlow is a desktop-based issue tracking and developer productivity tool built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
 
 # Our websites
 Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://temavrix.github.io/Temavrix.html)    
 Check out our R&D Website to look through our posted research papers and articles:- [R&D](https://epicrd.github.io/RDdept.html)    
 To get the latest news and updates from our organization:- [News](https://codingaviator.github.io/Epicnews.html)  
 
-
+</div>
 
