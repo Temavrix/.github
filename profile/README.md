@@ -28,9 +28,9 @@ These are projects currently being constantly updated and maintained by our team
 
 ### [Patchflow](https://github.com/Temavrix/PatchFlow)
 
-<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ae016d94-b2b8-4201-889b-9642a436032f" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
+<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ee5898e7-23d7-49dc-89f8-90a8de79c021" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
 
-   PatchFlow is a desktop-based issue tracking and developer productivity tool built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
+   PatchFlow is a desktop-based issue tracking and developer productivity tool with the help of AI built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
 
 # Our websites
 Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://temavrix.github.io/Temavrix.html)    
