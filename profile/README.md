@@ -13,24 +13,30 @@ Please consider donating some money to our organization to help fund our project
 
 # Our Flagship Projects
 
-These are projects currently being constantly updated and maintained by our team:
+These are projects that are constantly updated and maintained by our team:
 
 ### [Jarvis](https://github.com/Temavrix/JARVIS)
-<img width="150" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab"> 
 
-   Jarvis is a simple ML Chatbot (responses trained on a json file) with a GUI capable of chatting and retrieving information, daily news from the internet for it's user using python.
+<img width="150" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab">  
+
+Jarvis is a simple AI chatbot built using Python, PyTorch, and NLTK, featuring a Feed Forward Neural Network with two hidden layers for intelligent conversational responses. It allows users to customize chatbot behavior for their own use cases by modifying the JSON training data, and is wrapped in a Tkinter-based GUI to provide a smoother and more user-friendly experience.
+
+
 
 ### [NexaView](https://github.com/Temavrix/NexaView)
 
 <img width="150" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="150" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
 
-   NexaView is a Stunning Web-based Dashboard to fetch Weather, latest News, track to-do Tasks and more for it's Users built using ReactJS and TailwindCSS for the frontend UI and also integrates FireBase for it's backend database to store informations and REDIS for frequent used data to be cached for    quick retrieval.
+NexaView is an all-in-one web-based productivity dashboard built using ReactJS, TailwindCSS, Firebase, and Redis, designed to provide users with real-time weather forecasts, global news updates, task management, and personalized daily organization tools while using Redis-powered caching for faster performance and Firebase for secure data storage and retrieval.
+
+
 
 ### [Patchflow](https://github.com/Temavrix/PatchFlow)
 
-<img height="80" alt="Image" src="https://github.com/user-attachments/assets/ee5898e7-23d7-49dc-89f8-90a8de79c021" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/5d6e7c48-476f-4b71-966a-1f47b5e86631" />
+<img height="80" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
 
-   PatchFlow is a desktop-based issue tracking and developer productivity tool with the help of AI built using JavaFX and SQLite, designed to help developers manage bugs, track issues, and improve workflow efficiency. Coming soon...
+PatchFlow is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon in end-May...
+
 
 # Our websites
 Check out our Official Website to learn more about who we are and what we do:- [Temavrix](https://temavrix.github.io/Temavrix.html)    
