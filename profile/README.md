@@ -31,11 +31,11 @@ NexaView is an all-in-one web-based productivity dashboard built using ReactJS, 
 
 
 
-### [Patchflow](https://github.com/Temavrix/PatchFlow)
+### [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI)
 
 <img height="80" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="80" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
 
-PatchFlow is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon in end-May...
+PatchFlow AI is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development. Coming soon on May 16.
 
 
 # Our websites
