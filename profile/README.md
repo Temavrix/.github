@@ -1,10 +1,8 @@
 <div align="center">
-<p align="center">
-<img width="40%" src="https://github.com/user-attachments/assets/511bbe3f-cfe7-4206-bfc0-a3fb7be89738">
-</p >
 
-# About Temavrix
-Temavrix is a small scale startup that established a base in github to post free, open-source repositories for the world to see. Our aim is to bring an end to many problems both in the computer industry and the real world through open-source projects by innovating and solving problems. We have worked on a very few small-scaled projects so far with a constant hope that we can help the world in a small positive way. While we still have some ongoing and some ambitious projects coming up we will like to ask you to support our startup by simply visiting our github projects and contributing to them by starring and reporting a issue to help fix bugs and mistakes and improve our projects for others.
+# <img height="25" alt="new tema" src="https://github.com/user-attachments/assets/6fbe7044-8e36-4f5f-9a1a-591e421636e0" /> About Temavrix
+Temavrix is a small scale startup that established a base in github to post free, open-source repositories for the world to see. 
+We have worked on a very few small-scaled projects so far with a constant hope that we can help the world in a small positive way. While we still have some ongoing and some ambitious projects coming up we will like to ask you to support our startup by simply visiting our github projects and contributing to them by starring and reporting a issue to help fix bugs and mistakes and improve our projects for others.
 
 Please consider donating some money to our organization to help fund our projects and endeavourments:  
 <a href="https://buymeacoffee.com/mahadhevha" target="_blank">
@@ -15,27 +13,12 @@ Please consider donating some money to our organization to help fund our project
 
 These are projects that are constantly updated and maintained by our team:
 
-### [Jarvis](https://github.com/Temavrix/JARVIS)
-
-<img width="130" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab">  
-
-Jarvis is a simple AI chatbot built using Python, PyTorch, and NLTK, featuring a Feed Forward Neural Network with two hidden layers for intelligent conversational responses. It allows users to customize chatbot behavior for their own use cases by modifying the JSON training data, and is wrapped in a Tkinter-based GUI to provide a smoother and more user-friendly experience.
-
-
-
-### [NexaView](https://github.com/Temavrix/NexaView)
-
-<img width="140" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="140" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="140" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> 
-
-NexaView is an all-in-one web-based productivity dashboard built using ReactJS, TailwindCSS, Firebase, and Redis, designed to provide users with real-time weather forecasts, global news updates, task management, and personalized daily organization tools while using Redis-powered caching for faster performance and Firebase for secure data storage and retrieval.
-
-
-
-### [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI)
-
-<img height="70" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="70" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="70" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" />
-
-PatchFlow AI is a desktop-based issue tracking and developer productivity platform built using JavaFX, SQLite, and AI-powered integrations, designed to streamline developer workflows by managing bugs, tracking GitHub issues, organizing project tasks, and enabling teammates to share and assign issues collaboratively for faster and more efficient software development.
+| Project Preview                              | Project Description                                                                                                                     |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+|<img width="180" src="https://github.com/user-attachments/assets/3c45c65d-68f7-47a2-9a04-44d0dd3cbbab"> | [Jarvis](https://github.com/Temavrix/JARVIS) : AI chatbot built with a Feed Forward Neural Network for intelligent conversational responses and allow customized behavior for their own use case.|
+|<img width="180" alt="Image" src="https://github.com/user-attachments/assets/43f29e28-65f3-4375-9e9e-0f9cf7c63064" /> <img width="180" alt="Image" src="https://github.com/user-attachments/assets/adeddd48-1e8e-4316-a419-846cb326fbe9" /> <img width="180" alt="Image" src="https://github.com/user-attachments/assets/b9111d56-14c8-484e-99ba-36cf1a96d223" /> | [NexaView](https://github.com/Temavrix/NexaView) : A web-based dashboard built to provide real-time weather forecasts, global news, task management and personalized tools using Redis-powered caching|
+|<img height="95" alt="Image" src="https://github.com/user-attachments/assets/51062f14-87ad-429e-ac76-85370d0a8af7" /> <img height="95" alt="Image" src="https://github.com/user-attachments/assets/a0a54ed3-33c7-471b-86f6-574da2314a32" /> <img height="95" alt="Image" src="https://github.com/user-attachments/assets/701e5dab-ce33-4ced-ba20-1949a56f6cdd" /> | [Patchflow AI](https://github.com/Temavrix/PatchFlow-AI) : An issue tracking and developer productivity platform with AI-powered integrations. For streamlining workflows, tracking GitHub issues, organizing project tasks, and enabling team collaboration for faster and more efficient software development.|
+|<img height="105" alt="Optiscan" src="https://github.com/user-attachments/assets/7ce16189-6957-4a43-88f5-f0a17998aff2" /> | [OptiScan](https://github.com/Temavrix/OptiScan) : A WiFi optimization and heatmap visualization tool to record RSSI from different rooms and generates a live signal heatmap to recommend an optimal modem/router placement.|
 
 
 # Our websites
